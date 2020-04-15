@@ -10,7 +10,8 @@
 - Algorithm: Genetic Algorithm
 
 ## Project Technologies
-- Programming Language - Python
+- Programming Language - Python, JSON 
+  * JSON Object file is created for storing the details needed for the university.
 - UserInterface - PyQt5
 ## Usage
 Once you installed all the dependencies, run the project by following command 
@@ -18,4 +19,4 @@ Once you installed all the dependencies, run the project by following command
 python3 ui_controller.py
 ```
 after running this command, give the inputs to the user interface, or you can create a JSON file, and load it to the user interface.
-The software will generate the time table in docx format.
+The software will generate the time table in csv format.
